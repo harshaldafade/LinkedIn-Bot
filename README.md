@@ -59,6 +59,7 @@ LINKEDIN_PASSWORD = "your_password"
 # Job Search Settings
 LOCATION = "Your Location, Country"  # e.g., "Massachusetts, United States"
 KEYWORDS = [
+    "Software Engineer",
     "Data Scientist",
     "Machine Learning Engineer",
     "ML Engineer",

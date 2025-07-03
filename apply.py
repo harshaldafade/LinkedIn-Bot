@@ -277,7 +277,7 @@ def apply_to_job(page: Page, job, resume_path: str = "resume/Harshal_Dafade_Resu
                         page.wait_for_timeout(100)
                         
                         # For industry-specific experience, use a reasonable default
-                        default_value = "2"  # Default value
+                        default_value = "3"  # Default value
                         if "software" in label_text or "development" in label_text or "programming" in label_text:
                             default_value = "5"
                         elif "data" in label_text or "analytics" in label_text:
