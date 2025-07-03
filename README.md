@@ -232,4 +232,4 @@ This bot is for educational purposes only. Please use responsibly and in accorda
 
 ## Support 💬
 
-If you encounter any issues or have questions, please open an issue in the GitHub repository. 
+If you encounter any issues or have questions, please open an issue in the GitHub repository.
